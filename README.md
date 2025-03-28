@@ -1,5 +1,4 @@
 
-```markdown
 # stereo-feature-matching
 
 A real-time stereo camera feature matching demo using OpenCV.  
@@ -87,6 +86,4 @@ python stereo_feature_matching.py
 ---
 
 Made with 💻 and ☕ using OpenCV.
-```
 
----
