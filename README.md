@@ -69,8 +69,6 @@ python stereo_feature_matching.py
 ```
 .
 ├── stereo_feature_matching.py    # Main script
-├── 1.mp4                         # Optional fallback video (left)
-├── 2.mp4                         # Optional fallback video (right)
 ├── README.md                     # This file
 ```
 
