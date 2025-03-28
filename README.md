@@ -1,6 +1,3 @@
-当然可以！这是一个**不含 demo 视频**、内容简洁清晰、适合 GitHub 的 `README.md`，适用于你命名为 `stereo-feature-matching` 的项目：
-
----
 
 ```markdown
 # stereo-feature-matching
